@@ -1,1 +1,1 @@
-# Pthon_Uni_Cam_Course
+# Python_Uni_Cam_Course
